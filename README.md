@@ -1,0 +1,1 @@
+English:This project can use Python to run the CMD command, which has been added in version 0.0.1. 10 instructions,中文:这个项目,可以使用python来运行Cmd指令,0.0.1版本已经添加。10个指令
